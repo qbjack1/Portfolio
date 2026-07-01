@@ -4,6 +4,8 @@ A lightweight computer vision portfolio project that detects faces in uploaded i
 
 The app is designed to be compute-friendly: it runs inference on a single uploaded image, reports the number of detected faces, shows detection latency, and draws bounding boxes with confidence scores.
 
+You may access the public Streamlit app at <https://facedetecc-mini.streamlit.app/>
+
 ## Features
 
 - Upload JPG, JPEG, PNG, or WEBP images.
